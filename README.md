@@ -4,3 +4,6 @@ An Unobstrusive JavaScript is all about putting the user first and making the we
 
 Jquery is a piece of software called the Javascript library.
 
+reference:
+
+http://api.jquery.com/hide/
