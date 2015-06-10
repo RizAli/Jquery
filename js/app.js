@@ -1,6 +1,7 @@
 // Hide warning
 // Show warning slowly
-function myCode() {
+
+var myCode = function myCode() {
   $(".warning").hide().slideDown("slow");
 }
 
