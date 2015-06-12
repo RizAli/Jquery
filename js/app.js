@@ -14,7 +14,6 @@ $("button").click(function(){
 
   $(this).prev().show("slideUp");
   $(this).remove();
-  $
 });
 
 
