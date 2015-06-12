@@ -11,7 +11,8 @@ $(".spoiler").append("<button>Reveal Spoiler</button>")
   // 3.1 Show the spoiler
   // 3.2 Get rid of button
 $("button").click(function(){
-  $(".spoiler span").slideDown();
+
+  $(this).prev().show("slideUp");
   $(this).remove();
   $
 });
